@@ -12,7 +12,7 @@ const { createApp } = Vue
     data() {
       return {
         title: 'Primo esercizio con Vue',
-        image: ''
+        image: 'https://static.sky.it/editorialimages/277e8ac0d513fd95ebc81c5a06285e78133f9515/skytg24/it/lifestyle/approfondimenti/giornata-gatto-buongiorno-frasi-immagini/giornata-gatto-buongiorno-frasi-immagini-00-canva.jpg'
       }
     }
   }).mount('#app')
